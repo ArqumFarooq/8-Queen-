@@ -3,3 +3,7 @@ Eight-Queen-with-Forward-checking In this program you can get source code of eig
 Eight queen puzzle implement in C++.
 It is very optimistic and consider all coding perspective in mind when writing the code.
    
+   
+   
+   
+   
